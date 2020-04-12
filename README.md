@@ -7,7 +7,7 @@ Repository for data produced during my phd studies. The data includes frequency 
 The experimental frequency response functions were collected using an impact hammer and accelerometer. 
 
 ### Finite Element Analysis
-FEA was performed in the software package [ABAQUS](https://www.3ds.com/products-services/simulia/products/abaqus/)
+FEA was performed in the software package [ABAQUS](https://www.3ds.com/products-services/simulia/products/abaqus/).
 
 ### Analytical
 Mathetmatical modelling was performed utilising the Modal Coupling method.
@@ -35,6 +35,5 @@ See also the list of [contributors](https://github.com/your/project/contributors
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Friends and family
+* My dearly beloved cat Hector and my neighbour's dog Joe
