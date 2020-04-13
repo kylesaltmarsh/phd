@@ -9,8 +9,8 @@ The experimental frequency response functions were collected using an impact ham
 ### Finite Element Analysis
 FEA was performed in the software package [ABAQUS](https://www.3ds.com/products-services/simulia/products/abaqus/).
 
-### Analytical
-Mathetmatical modelling was performed utilising the Modal Coupling method.
+### Analaytical Modelling
+Analaytical modelling was performed utilising the Modal Coupling method.
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ pip install pandas
 ## Authors
 
 * **Kyle Saltmarsh** - *A bit of everything* - [University of Western Australia](https://www.linkedin.com/in/kylesaltmarsh/)
-* **Jie Pan** - *Analytical modelling* - [University of Western Australia](https://www.google.com/search?q=jie+pan+profile&oq=jie+pan+profile&aqs=chrome..69i57j0l4j46j0l2.1960j0j7&sourceid=chrome&ie=UTF-8)
+* **Jie Pan** - *Analaytical modelling* - [University of Western Australia](https://www.google.com/search?q=jie+pan+profile&oq=jie+pan+profile&aqs=chrome..69i57j0l4j46j0l2.1960j0j7&sourceid=chrome&ie=UTF-8)
 * **David Matthews** - *Experimental analysis* - [Defence Science and Technology](https://www.dst.defence.gov.au/capability/sonar-technologies)
 * **Ali Karrech** - *Finite element modelling* - [University of Western Australia](https://research-repository.uwa.edu.au/en/persons/ali-karrech)
 
